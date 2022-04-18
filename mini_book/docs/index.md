@@ -1,8 +1,9 @@
-# Scientific Python QuickStart 
+# Prediction Based on GLOBAL TERRORISM 
 
 This is a short sequence of lectures on Python programming for scientific
 work, written by [Thomas J.  Sargent](http://www.tomsargent.com/) and [John
 Stachurski](https://johnstachurski.net/).
+This is project report of group 5, written by Liu Bingyu(56879209), Ma Yixin(), Li Bowen() and Li Zemin().
 
 ```{note}
 These lectures were built using the new Sphinx-based [Jupyter Book

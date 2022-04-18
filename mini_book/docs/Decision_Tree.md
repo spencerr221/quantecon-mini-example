@@ -9,7 +9,7 @@ kernelspec:
   name: python3
 ---
 
-# Learn More
+# Desicion Tree Algorithm
 
 We're about ready to wrap up this brief course on Python for scientific
 computing.

@@ -9,9 +9,9 @@ kernelspec:
   name: python3
 ---
 
-(python_by_example)=
+(visualization)=
 
-# An Introductory Example
+# Visualization of Dataset
 
 ## Overview
 
@@ -25,7 +25,6 @@ structures.
 
 Deeper concepts will be covered in later lectures.
 
-You should have read the {ref}`lecture <getting_started>` on getting started with Python before beginning this one.
 
 ## The Task: Plotting a White Noise Process
 
@@ -201,7 +200,6 @@ below.
 ## Alternative Implementations
 
 Let\'s try writing some alternative versions of
-{ref}`our first program <ourfirstprog>`, which
 plotted IID draws from the normal distribution.
 
 The programs below are less efficient than the original one, and hence
@@ -315,7 +313,7 @@ x[1]   # second element of x
 ### The For Loop
 
 Now let\'s consider the `for` loop from
-{ref}`the program above <firstloopprog>`, which
+<!-- {ref}`the program above <firstloopprog>`, which -->
 was
 
 ```{code-cell} python3
@@ -399,7 +397,7 @@ remember:
 The `for` loop is the most common technique for iteration in Python.
 
 But, for the purpose of illustration, let\'s modify
-{ref}`the program above <firstloopprog>` to use
+<!-- {ref}`the program above <firstloopprog>` to use -->
 a `while` loop instead.
 
 (whileloopprog)=

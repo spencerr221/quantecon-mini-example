@@ -9,9 +9,9 @@ kernelspec:
   name: python3
 ---
 
-(about_py)=
+(introduction_of_database)=
 
-# About Python
+# Introduction of the Database
 
 > \"Python has gotten sufficiently weapons grade that we don't descend
 > into R anymore. Sorry, R people. I used to be one of you but we no
